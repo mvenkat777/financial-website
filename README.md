@@ -4,7 +4,6 @@
 - Refer to "class_diagram.pdf" file for technical overiew of the application developed and it also covers the request life cycle of rendering a web page from request to response.  
    	
 ### Instructions to run application inside docker
--  Download the financial-website zip folder provided
 -  Run file database-schema/financialwebsite.sql at mysql database 	 	
 -  Make sure to change the mysql database connection credentials at DatabaseSetup.php 	
 -  cd financial-website
