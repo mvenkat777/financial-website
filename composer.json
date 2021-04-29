@@ -1,6 +1,6 @@
 {
     "require": {
-        "illuminate/database": "^5.8",
+        "illuminate/database": "^6.20",
         "phpunit/phpunit": "^7.5",
         "fzaninotto/faker": "^1.8",
         "spatie/array-to-xml": "^2.10"
